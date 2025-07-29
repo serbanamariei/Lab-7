@@ -77,7 +77,8 @@ clang vectorUtils.o main.o -o output
 - To build the project:
 ```bash
 make
-
+```
 - To clean up build files:
 ```bash
 make clean
+```
