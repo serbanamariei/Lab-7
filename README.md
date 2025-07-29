@@ -74,10 +74,10 @@ clang -Wall -c main.c             # Main program
 clang vectorUtils.o main.o -o output
 
 # Build with Makefile
-* To build the project:
+- To build the project:
 ```bash
 make
 
-* To clean up build files:
+- To clean up build files:
 ```bash
 make clean
