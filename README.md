@@ -72,7 +72,7 @@ To compile and link programs using dynamic memory:
 clang -Wall -c vectorUtils.c      # Utility functions for vector operations
 clang -Wall -c main.c             # Main program
 clang vectorUtils.o main.o -o output
-
+```
 # Build with Makefile
 - To build the project:
 ```bash
